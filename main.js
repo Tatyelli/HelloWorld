@@ -1,1 +1,1 @@
-alert("Olá mundo;")
+prompt ("Qual o seu nome?");
